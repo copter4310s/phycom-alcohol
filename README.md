@@ -5,3 +5,7 @@
     by testing blood alcohol levels and providing a mini-game to 
     assess how drunk a person is.
  👉🏿Learn more about our project👈🏿
+project website
+![alt text](http://url/to/img.png)
+project poster
+![alt text](http://url/to/img.png)
