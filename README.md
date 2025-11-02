@@ -10,4 +10,4 @@ project website
 Click here to view the live project:  
 👉 [Phycom Alcohol Project Website](https://www2.it.kmitl.ac.th/~it67070057/project/PhycomAlchohol/?fbclid=IwZXh0bgNhZW0CMTEAAR4JQMG8sf2ARs_pLgIn9m4zJRP1H88OleymlPlQ2FOwjzC9jX-8BQEeiS2pIw_aem_zSN1e0cwo6TowqBwsG97lg)
 project poster
-![alt text](http://url/to/img.png)
+
