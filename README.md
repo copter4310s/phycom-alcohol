@@ -8,7 +8,9 @@
 project website
 ## 🔗 Project Website
 
-👉 [Phycom Alcohol Project Website](https://www2.it.kmitl.ac.th/~it67070057/project/PhycomAlchohol/?fbclid=IwZXh0bgNhZW0CMTEAAR4JQMG8sf2ARs_pLgIn9m4zJRP1H88OleymlPlQ2FOwjzC9jX-8BQEeiS2pIw_aem_zSN1e0cwo6TowqBwsG97lg)
+👉 [Phycom Alcohol Project Website](https://www2.it.kmitl.ac.th/~it67070057/project/PhycomAlchohol/)
+
+👉 [Phycom Alcohol Presentation Video](https://youtu.be/gjWTKgZReF8)
 
 👉 Project Poster
 ![Project Poster](https://github.com/copter4310s/phycom-alcohol/blob/main/AlcoholImg.jpg?raw=true)
